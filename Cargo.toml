@@ -3,5 +3,4 @@ members = [
 	"shared_lib",
 	"bin1",
 	"bin2",
-	"bin3"
 ]
